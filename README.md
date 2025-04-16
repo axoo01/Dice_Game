@@ -17,3 +17,7 @@ A simple web-based dice roller where users can select the number of dice (1-6) a
 - Click the "Roll Dice" button.
 
 - The dice results and images will be displayed instantly.
+
+## Demo
+
+[Click here for the live demo](https://axoo01.github.io/Dice_Game/)
